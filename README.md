@@ -7,16 +7,16 @@ O WYD Framework em C# é uma poderosa biblioteca que simplifica a comunicação 
 O WYD Framework oferece uma série de funcionalidades essenciais para interagir com o servidor do jogo WYD. Algumas das principais funcionalidades incluem:
 
 Conexão com o servidor do jogo.
-Movimentação do personagem dentro do mundo do jogo.
-Utilização do chat para comunicação com outros jogadores.
-Manipulação de eventos importantes do objeto WClient, incluindo:
-PlayerChanged: Evento disparado quando as informações do jogador são alteradas.
-ScoreUpdated: Evento disparado quando a pontuação do jogador é atualizada.
-PartyJoined: Evento disparado quando o jogador se junta a uma festa.
-PartyReceived: Evento disparado quando o jogador recebe um convite para uma festa.
-PartyLeft: Evento disparado quando o jogador deixa uma festa.
-LogMessageReceived: Evento disparado quando uma mensagem de log é recebida.
-ConnectionChanged: Evento disparado quando o estado da conexão é alterado.
+* Movimentação do personagem dentro do mundo do jogo.
+* Utilização do chat para comunicação com outros jogadores.
+* Manipulação de eventos importantes do objeto WClient, incluindo:
+  - PlayerChanged: Evento disparado quando as informações do jogador são alteradas.
+  - ScoreUpdated: Evento disparado quando a pontuação do jogador é atualizada.
+  - PartyJoined: Evento disparado quando o jogador se junta a uma festa.
+  - PartyReceived: Evento disparado quando o jogador recebe um convite para uma festa.
+  - PartyLeft: Evento disparado quando o jogador deixa uma festa.
+  - LogMessageReceived: Evento disparado quando uma mensagem de log é recebida.
+  - ConnectionChanged: Evento disparado quando o estado da conexão é alterado.
 
 ## Como Começar
 Para criar uma instância do WYD Framework, siga os passos abaixo:
@@ -84,4 +84,4 @@ Este projeto é de código aberto e aceita contribuições da comunidade. Se voc
 ## Licença
 Este projeto é distribuído sob a licença MIT. Consulte o arquivo LICENSE para obter detalhes sobre os termos de uso.
 
-Este é um projeto em andamento e estamos constantemente trabalhando para melhorá-lo. Se você tiver alguma dúvida, sugestão ou problema, entre em contato conosco. Obrigado por escolher o WYD Framework em C#!
+Este é um projeto em andamento e estamos constantemente trabalhando para melhorá-lo!
