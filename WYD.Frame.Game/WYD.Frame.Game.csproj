@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+        <RootNamespace>WYD.Frame.Game</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="..\WYD.Frame.Models\WYD.Frame.Models.csproj" />
+        <ProjectReference Include="..\WYD.Frame.Packets\WYD.Frame.Packets.csproj" />
+        <ProjectReference Include="..\WYD.Frame.Services\WYD.Frame.Services.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Mapster" Version="7.4.0-pre05" />
+        <PackageReference Include="Microsoft.Extensions.Hosting.Abstractions" Version="7.0.0" />
+        <PackageReference Include="StarkSoftProxy" Version="1.6.0" />
+        <PackageReference Include="String.Similarity" Version="3.0.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="Models" />
+    </ItemGroup>
+
+</Project>

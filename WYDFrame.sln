@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WYD.Frame.Packets", "WYD.Frame.Packets\WYD.Frame.Packets.csproj", "{183DF92C-C6A5-4D4C-AE19-7B4478BD70D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WYD.Frame.Common", "WYD.Frame.Common\WYD.Frame.Common.csproj", "{0DBF5413-5555-474C-A7F2-2134A4DB0765}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WYD.Frame.Game", "WYD.Frame.Game\WYD.Frame.Game.csproj", "{A8A695C1-D04F-44F3-9000-09B91D0B23BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WYD.Frame.Services", "WYD.Frame.Services\WYD.Frame.Services.csproj", "{5598738F-63E3-445F-983B-E14E44A9CC51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WYD.Frame.Models", "WYD.Frame.Models\WYD.Frame.Models.csproj", "{809C0C64-8846-4BB0-9147-804F6F67C43A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WYD.Frame.Conversors", "WYD.Frame.Conversors\WYD.Frame.Conversors.csproj", "{2E4B9A62-8F08-452A-A9FC-DBEE271295B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WYD.Frame.Tests", "WYD.Frame.Tests\WYD.Frame.Tests.csproj", "{2C0D40AF-A7A6-4309-A01D-A2DAD4D0084F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{183DF92C-C6A5-4D4C-AE19-7B4478BD70D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{183DF92C-C6A5-4D4C-AE19-7B4478BD70D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{183DF92C-C6A5-4D4C-AE19-7B4478BD70D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{183DF92C-C6A5-4D4C-AE19-7B4478BD70D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DBF5413-5555-474C-A7F2-2134A4DB0765}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DBF5413-5555-474C-A7F2-2134A4DB0765}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DBF5413-5555-474C-A7F2-2134A4DB0765}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DBF5413-5555-474C-A7F2-2134A4DB0765}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8A695C1-D04F-44F3-9000-09B91D0B23BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8A695C1-D04F-44F3-9000-09B91D0B23BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8A695C1-D04F-44F3-9000-09B91D0B23BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8A695C1-D04F-44F3-9000-09B91D0B23BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5598738F-63E3-445F-983B-E14E44A9CC51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5598738F-63E3-445F-983B-E14E44A9CC51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5598738F-63E3-445F-983B-E14E44A9CC51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5598738F-63E3-445F-983B-E14E44A9CC51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{809C0C64-8846-4BB0-9147-804F6F67C43A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{809C0C64-8846-4BB0-9147-804F6F67C43A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{809C0C64-8846-4BB0-9147-804F6F67C43A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{809C0C64-8846-4BB0-9147-804F6F67C43A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E4B9A62-8F08-452A-A9FC-DBEE271295B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E4B9A62-8F08-452A-A9FC-DBEE271295B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E4B9A62-8F08-452A-A9FC-DBEE271295B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E4B9A62-8F08-452A-A9FC-DBEE271295B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C0D40AF-A7A6-4309-A01D-A2DAD4D0084F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C0D40AF-A7A6-4309-A01D-A2DAD4D0084F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C0D40AF-A7A6-4309-A01D-A2DAD4D0084F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C0D40AF-A7A6-4309-A01D-A2DAD4D0084F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,66 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1021e7b5_002D5a3b_002D4978_002D911e_002Dfb7e5d4a4ea4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Path_Should_Be_Found #7" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::2C0D40AF-A7A6-4309-A01D-A2DAD4D0084F::net7.0::WYD.Sdk.Tests.MoveTest.Path_Should_Be_Found&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=27192a81_002D9ba4_002D468b_002Db1d1_002D664919cb1671/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Path_Should_Be_Found #10" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::2C0D40AF-A7A6-4309-A01D-A2DAD4D0084F::net7.0::WYD.Sdk.Tests.MoveTest.Path_Should_Be_Found&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2c5cbbc2_002D76c3_002D4921_002Db1e0_002De145c67c769a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Path_Should_Be_Found #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::2C0D40AF-A7A6-4309-A01D-A2DAD4D0084F::net7.0::WYD.Sdk.Tests.MoveTest.Path_Should_Be_Found&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=36889e32_002D9fe1_002D40c2_002Da1a1_002D91ab77b9198f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Path_Should_Be_Found #13" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::2C0D40AF-A7A6-4309-A01D-A2DAD4D0084F::net7.0::WYD.Sdk.Tests.MoveTest.Path_Should_Be_Found&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=69ecf7b4_002D80a0_002D4235_002D917a_002Df64c7947d04a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Path_Should_Be_Found #12" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::2C0D40AF-A7A6-4309-A01D-A2DAD4D0084F::net7.0::WYD.Sdk.Tests.MoveTest.Path_Should_Be_Found&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6ae804ae_002D5bc5_002D4ad1_002Dad0d_002D42fa59567ed2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Path_Should_Be_Found #8" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::2C0D40AF-A7A6-4309-A01D-A2DAD4D0084F::net7.0::WYD.Sdk.Tests.MoveTest.Path_Should_Be_Found&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7ec0a55f_002Da35d_002D40f3_002D886f_002D882f3a5ccac7/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Path_Should_Be_Found #9" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::2C0D40AF-A7A6-4309-A01D-A2DAD4D0084F::net7.0::WYD.Sdk.Tests.MoveTest.Path_Should_Be_Found&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8decd549_002Ddfa0_002D442a_002D906a_002D7c4b8ebf937c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Path_Should_Be_Found #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::2C0D40AF-A7A6-4309-A01D-A2DAD4D0084F::net7.0::WYD.Sdk.Tests.MoveTest.Path_Should_Be_Found&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a66fa99e_002D6453_002D49e3_002D96ee_002De0b4efa73bf9/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Path_Should_Be_Found #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::2C0D40AF-A7A6-4309-A01D-A2DAD4D0084F::net7.0::WYD.Sdk.Tests.MoveTest.Path_Should_Be_Found&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=cdf9731f_002Df3b4_002D401f_002D8c18_002D2b0e2c16c567/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Path_Should_Be_Found #11" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::2C0D40AF-A7A6-4309-A01D-A2DAD4D0084F::net7.0::WYD.Sdk.Tests.MoveTest.Path_Should_Be_Found&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d30b96c6_002Deea6_002D4049_002D8009_002Db7f24d571672/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Path_Should_Be_Found #6" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::2C0D40AF-A7A6-4309-A01D-A2DAD4D0084F::net7.0::WYD.Sdk.Tests.MoveTest.Path_Should_Be_Found&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d821ff48_002D24e7_002D4575_002Da2f0_002Dc8194cbf1eda/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Path_Should_Be_Found #5" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::2C0D40AF-A7A6-4309-A01D-A2DAD4D0084F::net7.0::WYD.Sdk.Tests.MoveTest.Path_Should_Be_Found&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f0755f33_002D2be3_002D414c_002Db5a0_002Df7553f66a09d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Path_Should_Be_Found" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::2C0D40AF-A7A6-4309-A01D-A2DAD4D0084F::net7.0::WYD.Sdk.Tests.MoveTest.Path_Should_Be_Found&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
